@@ -57,11 +57,11 @@ When I'm not developing and coding, you can find me watching Netflix, Basquet or
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Charutito&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Charutito&show_icons=true&bg_color=30,18273d,0a1626&title_color=f77a20&text_color=fff">
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charutito&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charutito&bg_color=30,18273d,0a1626&title_color=f77a20&text_color=fff&layout=compact&langs_count=8">
 </p>
 
 
