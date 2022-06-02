@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! <img src="https://raw.githubusercontent.com/Charutito/Charutito/main/Resources/wave_hand.gif" width="30px"> I'm Matias Milewski <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h2>
+<h2 align="center">Hello there! <img src="https://raw.githubusercontent.com/Charutito/Charutito/main/Resources/wave_hand.gif" width="30px" height="30px"> I'm Matias Milewski <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px"></h2>
 
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h3>
 
