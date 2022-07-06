@@ -24,10 +24,11 @@ When I'm not developing and coding, you can find me watching Netflix, Basquet or
 
 <p align=center>
   <a href="https://github.com/Charutito">
-    <img src="https://badges.pufler.dev/visits/Charutito/Charutito?style=flat-square&color=black&logo=github">
+    <!-- <img src="https://badges.pufler.dev/visits/Charutito/Charutito?style=flat-square&color=black&logo=github"> -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=charutito.visitor-badge">
   </a>
   <a href="https://github.com/Charutito?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charutito?style=flat-square&color=black&logo=github">
+    <!-- <img src="https://badges.pufler.dev/repos/Charutito?style=flat-square&color=black&logo=github"> -->
   </a>
 </p>
 <p align="center">
