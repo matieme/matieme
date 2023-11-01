@@ -4,11 +4,11 @@
 
 <p align="center"><em>I'm a game developer from Argentina 🇦🇷, living in Montevideo, Uruguay 🇺🇾.
 
-I have a degree in videogames design and programming at Davinci School, Buenos Aires 🎓. I'm passionate about game design and technology. Right now I'm working as a Tech lead in [Game Cloud Network](https://www.gamecloudnet.com/)
+I have a degree in videogames design and programming at Davinci School, Buenos Aires</em> 🎓<em>. I'm passionate about game design and technology. Right now I'm working as a Tech lead in [TGA Entertainment](https://www.tgacompany.com/)
   
-When I'm not developing and coding, you can find me watching Netflix, Basquet or just listening to music. Riding my longboard 🛹 is another thing that I enjoy in my free time. Memes are something that are always appreciated 😂.
+When I'm not developing and coding, you can find me watching Netflix, Basquet or just listening to music. Riding my longboard</em> 🛹 <em>is another thing that I enjoy in my free time. Memes are something that are always appreciated</em> 😂.
 
-</p></em>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/MatiasMilewski">
